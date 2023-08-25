@@ -35,12 +35,11 @@ aria-label = cart
 
 #---------- HERO ----------#
 
-High Quality
-Pet Food
+very cute pets
 
-Sale up to 40% off today
 
-Shop Now
+
+own your fevrite pets now
 
 
 
@@ -49,15 +48,15 @@ Shop Now
 Top
 categories
 
-alt = Cat Food
+alt = Cat 
 
-Cat Food
+Cat 
 
-alt = Cat Toys
-Cat Toys
+alt = dogs
+dogs
 
-alt = Dog Food
-Dog Food
+alt = monkey
+monkey
 
 alt = Dog Toys
 Dog Toys
@@ -71,7 +70,7 @@ Dog Sumpplements
 
 #---------- OFFERS ----------#
 
-Selected Items. Online Only.
+Selected pets. Online Only.
 Hot Summer
 Deals
 Read More
@@ -223,7 +222,7 @@ Petco Insurance
 Pet Adoption
 Resource Center
 
-&copy; 2022 Made with ♥ by codewithsadee.
+
 
 alt = payment method
 
